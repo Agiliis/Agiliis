@@ -7,6 +7,7 @@
 - [Codeforces](https://codeforces.com/profile/pedronicholas13)
 
 # 💻 Projetos:
+
 - [EyeTracker_PIBIC](https://github.com/Agiliis/EyeTracker_PIBIC.git) Rastreador ocular em smartphone baseado em Android Studio e OpenCV
 - [Programacao-Competitiva](https://github.com/Agiliis/Programacao-Competitiva.git) Repositório com soluções de vários problemas e olimpíadas de programação
 
