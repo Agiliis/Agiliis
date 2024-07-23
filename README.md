@@ -4,6 +4,7 @@
 - Sou aspirante a pesquisador, e já realizei 2 projetos [PIBIC](https://www.ufpe.br/iniciacao-cientifica) pela UFPE</br>
 - Atualmente focado em programação competitiva e aprendendo desenvolvimento web-mobile</br>
 - [Currículo Lattes](http://lattes.cnpq.br/9295639715054214)
+- [Codeforces](https://codeforces.com/profile/pedronicholas13)
 
 # 💻 Projetos:
 - [EyeTracker_PIBIC](https://github.com/Agiliis/EyeTracker_PIBIC.git) Rastreador ocular em smartphone baseado em Android Studio e OpenCV
