@@ -1,4 +1,4 @@
-## Opa, chamo Nicholas 👋
+## Olá, chamo Nicholas 👋
 
 - Estou cursando Bacharelado de Engenharia da Computação pela POLI/UPE</br>
 - Sou aspirante a pesquisador, e já realizei 2 projetos [PIBIC](https://www.ufpe.br/iniciacao-cientifica) pela UFPE</br>
@@ -6,7 +6,7 @@
 - [Currículo Lattes](http://lattes.cnpq.br/9295639715054214)
 - [Codeforces](https://codeforces.com/profile/pedronicholas13)
 
-# 💻 Projetos:
+## 💻 Projetos:
 
 - [EyeTracker_PIBIC](https://github.com/Agiliis/EyeTracker_PIBIC.git) Rastreador ocular em smartphone baseado em Android Studio e OpenCV
 - [Programacao-Competitiva](https://github.com/Agiliis/Programacao-Competitiva.git) Repositório com soluções de vários problemas e olimpíadas de programação
